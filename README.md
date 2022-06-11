@@ -12,7 +12,7 @@ After installing these libraries you can run the code using the "FaceRecognition
 This file can be opened using the jupyter notebook editor.
 
 For additional information please refer to the following pages:
-https://github.com/timesler/facenet-pytorch
+\n https://github.com/timesler/facenet-pytorch
 https://lucagessi.medium.com/face-recognition-with-pytorch-a771f52d7e28
 
 ### Video Link
