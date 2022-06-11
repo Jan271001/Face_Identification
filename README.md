@@ -4,10 +4,10 @@ The purose of the project is mainly the educational task to show how face recogn
 
 ### Getting Started
 To get started it is important to install the following libraries:  
-  *- miniconda  
-  - openCV  
-  - pytorch  
-  - jupyter notebook*  
+  - *miniconda*  
+  - *openCV*  
+  - *pytorch*  
+  - *jupyter notebook*  
 After installing these libraries you can run the code using the "FaceRecognition_Test.ipynb"-file.
 This file can be opened using the jupyter notebook editor.
 
